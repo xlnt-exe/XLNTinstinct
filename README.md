@@ -10,33 +10,23 @@ Hey there! I'm a high schooler passionate about everything science, space, tech,
 
 Aiming big to become a UI/UX Designer & Graphic Designer.
 
-## Skills & Technologies
-
-py,tailwind,linux,kali,androidstudio,blender,bots,html,figma,fastapi,java,arduino,git,nodejs,mysql,netlify,npm,powershell,raspberrypi,vite,yarn
-
 ## Top Projects
 
-- [XLNTinstinct](https://github.com/xlnt-exe/XLNTinstinct)  
-  Config files for my GitHub profile.  
-  ⭐ 0 Stars  |  🍴 0 Forks  
+- [**AI-ChatBot**](https://github.com/xlnt-exe/AI-ChatBot)  
+  An AI Chat Bot created using FastAPI, ChatGPT's Whisper model, and React + Vite. It can handle basic operations and answer your queries.  
+  ⭐ Stars: 0 | 🔁 Forks: 0 | 🐞 Issues: 0  
   
-- [AI-ChatBot](https://github.com/xlnt-exe/AI-ChatBot)  
-  An AI Chat Bot created using FastAPI, ChatGPT's Whisper.0 Model & React + Vite. It can handle basic operations and answer your queries.  
-  ⭐ 0 Stars  |  🍴 0 Forks  |  🐞 0 Open Issues
+- [**XLNTinstinct**](https://github.com/xlnt-exe/XLNTinstinct)  
+  Config files for my GitHub profile.  
+  ⭐ Stars: 0 | 🔁 Forks: 0 | 🐞 Issues: 0
 
 ## GitHub Stats
 
-🌟 **Public Repositories:** 2  
-👥 **Followers:** 0  
-🔄 **Following:** 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xlnt-exe&show_icons=true&theme=radical)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-2-blue) ![Followers](https://img.shields.io/badge/Followers-0-lightgrey) ![Following](https://img.shields.io/badge/Following-0-lightgrey)
 
 ## Recent Activity
 
-Here are some of my recent activities on GitHub:
-- Created [AI-ChatBot](https://github.com/xlnt-exe/AI-ChatBot) repository.
-- Created [XLNTinstinct](https://github.com/xlnt-exe/XLNTinstinct) repository.
+No recent activity to display yet. Stay tuned!
 
 ## Latest Blog Posts
 
@@ -44,6 +34,6 @@ Coming soon...
 
 ## Connect with Me
 
-- Discord ID: [@xln1.](https://discord.com/users/1366688271962341416)
+Discord ID: [@xln1.](https://discord.com/users/1366688271962341416)
 
-- G-mail: xlntinstinct09@gmail.com 
+G-mail: xlntinstinct09@gmail.com
